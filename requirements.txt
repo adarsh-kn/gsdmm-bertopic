@@ -1,7 +1,7 @@
 streamlit
 pandas
 streamlit_option_menu
-base64
+base64==3.10
 json
 numpy
 matplotlib
