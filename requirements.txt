@@ -7,4 +7,4 @@ wordcloud==1.8.2.2
 nltk==3.7
 flair==0.11.3
 bertopic==0.11.0
-gsdmm==0.1
+git+https://github.com/rwalk/gsdmm.git
