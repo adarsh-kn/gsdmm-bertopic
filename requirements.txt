@@ -1,7 +1,6 @@
 streamlit
 pandas
 streamlit_option_menu
-base64==3.9.0
 json
 numpy
 matplotlib
@@ -10,5 +9,6 @@ nltk
 flair
 bertopic
 gsdmm
-re==3.7.0
+re
 unicodedata==13.0.0
+base64
